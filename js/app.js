@@ -3,6 +3,9 @@ const navsilde = () => {
     const navl=document.querySelector('.navlink');
     tlin.addEventListener('click',()=>{
         navl.classList.toggle('navac');
-    })
+
+        tlin.classList.toggle('toggle');
+
+    });
 }
 navsilde();
