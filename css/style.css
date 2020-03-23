@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(../imgs/unnamed.jpg);
+    background-image: url(../imgs/251618.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -16,7 +16,7 @@ nav{
     align-items: center;
     min-height: 8vh;
     font-family: 'Poppins', sans-serif;
-    background-color: #006482;
+    background-color: #3327DB;
 }
 .logo{
     text-transform: uppercase;
@@ -70,7 +70,7 @@ nav{
        right: 0px;
        height: 92vh;
        top: 8vh;
-       background-color: #006482;
+       background-color: #3327DB;
        display: flex;
        flex-direction: column;
        align-items: center;
